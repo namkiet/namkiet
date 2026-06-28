@@ -1,33 +1,61 @@
-# 👋 Hi, I'm Nam Kiet (namkiet)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7A7&center=true&vCenter=true&width=500&lines=CS+%40+HCMUS+%7C+ML+Researcher+%26+Fullstack+Developer" alt="Typing SVG" />
+</p>
 
-🎓 **Computer Science @ VNUHCM - University of Science**
+# 👋 Hi, I'm Nam Kiet
+
+🎓 **CS Sophomore** @ VNUHCM - University of Science (GPA: 3.7/4.0)  
+🔬 **Research Assistant** — discrete diffusion models & masking strategies for LLMs  
+🏆 ICPC National Vietnam 2025 · GDGOC Hackathon 2026 Finalist  
+📫 kiettrinh4206@gmail.com
+
+---
 
 ## 🛠 Tech Stack
 
-### Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+<table>
+  <tr>
+    <td align="center" width="96"><b>Languages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=cpp,python,js,ts,kotlin&perline=5" /></td>
+  </tr>
+  <tr>
+    <td align="center" width="96"><b>ML & AI</b></td>
+    <td><img src="https://skillicons.dev/icons?i=pytorch,pandas,opencv&perline=3" /></td>
+  </tr>
+  <tr>
+    <td align="center" width="96"><b>Backend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=flask,fastapi&perline=2" /></td>
+  </tr>
+  <tr>
+    <td align="center" width="96"><b>Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=react&perline=1" /></td>
+  </tr>
+  <tr>
+    <td align="center" width="96"><b>Database</b></td>
+    <td><img src="https://skillicons.dev/icons?i=sqlite,postgres,mssql&perline=3" /></td>
+  </tr>
+  <tr>
+    <td align="center" width="96"><b>Tools</b></td>
+    <td><img src="https://skillicons.dev/icons?i=git,docker,linux,selenium&perline=4" /></td>
+  </tr>
+</table>
 
-### Frameworks & Libraries
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+---
 
-### Database
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+## 🏆 Achievements
 
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+- **ICPC National Vietnam 2025** — Represented HCMUS (Team FreeDRL)
+- **GDGOC Hackathon Vietnam 2026** — Top 6 Finalist
+- **Vietnam National Math Olympiad** — Second Prize 2023, 2024
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=namkiet&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+</p>
+
+## 🏅 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=namkiet&theme=radical&no-frame=true&no-bg=false&margin-w=4" />
+</p>
