@@ -4,11 +4,11 @@
 
 👋 I'm a **second-year CS student** at VNUHCM - University of Science, passionate about **AI/ML and backend engineering**.
 
-🔍 I'm looking for **freelance / part-time ML Engineer or Backend opportunities** where I can contribute to real products.
+🔍 I'm looking for **ML Engineer** or **Backend opportunities** where I can contribute to real products.
 
-🧠 Strong background in **Mathematics and Computer Science** — National Math Olympiad 2nd Prize 2023, 2024 · ICPC National Vietnam 2025 · GPA 3.7/4.0
+🧠 Strong background in **Mathematics** (National Math Olympiad 2nd Prize 2023, 2024) and **Computer Science** (ICPC National Vietnam 2025 · GPA 3.7/4.0)
 
-💻 Built **AI-powered apps**: **OmniLocal** (GDGOC Hackathon Finalist) and **LocalFood** — combining deep learning, backend APIs, and modern web tech.
+💻 Built **AI-powered** apps: **OmniLocal** (GDGOC Hackathon Finalist) and **LocalFood** — combining deep learning, backend APIs, and modern web tech.
 
 <p align="center">
   <a href="mailto:kiettrinh4206@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
