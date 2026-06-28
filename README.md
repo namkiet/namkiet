@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7A7&center=true&vCenter=true&width=500&lines=CS+%40+HCMUS+%7C+ML+Researcher+%26+Fullstack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7A7&center=true&vCenter=true&width=500&lines=HCMUS+%7C+Software+%26+AI+Engineer" alt="Typing SVG" />
 </p>
 
 # 👋 Hi, I'm Nam Kiet
@@ -13,7 +13,7 @@
 
 ## 🛠 Tech Stack
 
-<table>
+<table align="center">
   <tr>
     <td align="center" width="120"><b>Languages</b></td>
     <td>
@@ -68,14 +68,8 @@
 - **Vietnam National Math Olympiad** — Second Prize 2023, 2024
 - **ICPC National Vietnam 2025** — Represented HCMUS (Team FreeDRL)
 
-## 📊 GitHub Stats
+## 📊 Streak Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=namkiet&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-</p>
-
-## 🏅 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=namkiet&theme=radical&no-frame=true&no-bg=false&margin-w=4" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=namkiet&theme=radical" />
 </p>
