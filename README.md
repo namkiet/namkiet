@@ -11,64 +11,51 @@
 
 ---
 
-<style>
-  @keyframes float {
-    0%, 100% { transform: translateY(0px); }
-    50% { transform: translateY(-8px); }
-  }
-  .tech-icon {
-    animation: float 3s ease-in-out infinite;
-    display: inline-block;
-    height: 40px;
-    margin: 4px 6px;
-  }
-</style>
-
 ## 🛠 Tech Stack
 
 <table>
   <tr>
     <td align="center" width="120"><b>Languages</b></td>
     <td>
-      <a href="https://isocpp.org/" target="_blank"><img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" /></a>
-      <a href="https://www.python.org/" target="_blank"><img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" /></a>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" /></a>
-      <a href="https://www.typescriptlang.org/" target="_blank"><img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" /></a>
+      <a href="https://isocpp.org/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=cpp&theme=dark&animate=true" width="48" height="48" alt="C++" /></a>
+      <a href="https://www.python.org/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=python&theme=dark&animate=true" width="48" height="48" alt="Python" /></a>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=javascript&theme=dark&animate=true" width="48" height="48" alt="JavaScript" /></a>
+      <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=typescript&theme=dark&animate=true" width="48" height="48" alt="TypeScript" /></a>
     </td>
   </tr>
   <tr>
     <td align="center" width="120"><b>AI & ML</b></td>
     <td>
-      <a href="https://pytorch.org/" target="_blank"><img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" /></a>
-      <a href="https://pandas.pydata.org/" target="_blank"><img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" /></a>
-      <a href="https://opencv.org/" target="_blank"><img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" /></a>
+      <a href="https://pytorch.org/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=pytorch&theme=dark&animate=true" width="48" height="48" alt="PyTorch" /></a>
+      <a href="https://pandas.pydata.org/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=pandas&theme=dark&animate=true" width="48" height="48" alt="Pandas" /></a>
+      <a href="https://opencv.org/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=opencv&theme=dark&animate=true" width="48" height="48" alt="OpenCV" /></a>
     </td>
   </tr>
   <tr>
     <td align="center" width="120"><b>Backend</b></td>
     <td>
-      <a href="https://fastapi.tiangolo.com/" target="_blank"><img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" /></a>
-      <a href="https://flask.palletsprojects.com/" target="_blank"><img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" /></a>
-      <a href="https://nestjs.com/" target="_blank"><img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" alt="NestJS" /></a>
-      <a href="https://expressjs.com/" target="_blank"><img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" /></a>
+      <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=fastapi&theme=dark&animate=true" width="48" height="48" alt="FastAPI" /></a>
+      <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=flask&theme=dark&animate=true" width="48" height="48" alt="Flask" /></a>
+      <a href="https://nestjs.com/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=nestjs&theme=dark&animate=true" width="48" height="48" alt="NestJS" /></a>
+      <a href="https://expressjs.com/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=expressjs&theme=dark&animate=true" width="48" height="48" alt="Express.js" /></a>
     </td>
   </tr>
   <tr>
     <td align="center" width="120"><b>Database</b></td>
     <td>
-      <a href="https://www.sqlite.org/" target="_blank"><img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" /></a>
-      <a href="https://www.postgresql.org/" target="_blank"><img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" /></a>
-      <a href="https://www.microsoft.com/en-us/sql-server/" target="_blank"><img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="MSSQL" /></a>
+      <a href="https://www.sqlite.org/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=sqlite&theme=dark&animate=true" width="48" height="48" alt="SQLite" /></a>
+      <a href="https://www.postgresql.org/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql&theme=dark&animate=true" width="48" height="48" alt="PostgreSQL" /></a>
+      <a href="https://www.microsoft.com/en-us/sql-server/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=sqlserver&theme=dark&animate=true" width="48" height="48" alt="MSSQL" /></a>
     </td>
   </tr>
   <tr>
     <td align="center" width="120"><b>Tools</b></td>
     <td>
-      <a href="https://git-scm.com/" target="_blank"><img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" /></a>
-      <a href="https://github.com/" target="_blank"><img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" /></a>
-      <a href="https://www.docker.com/" target="_blank"><img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" /></a>
-      <a href="https://www.postman.com/" target="_blank"><img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" /></a>
-      <a href="https://www.linux.org/" target="_blank"><img class="tech-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" /></a>
+      <a href="https://git-scm.com/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=git&theme=dark&animate=true" width="48" height="48" alt="Git" /></a>
+      <a href="https://github.com/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=github&theme=dark&animate=true" width="48" height="48" alt="GitHub" /></a>
+      <a href="https://www.docker.com/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=docker&theme=dark&animate=true" width="48" height="48" alt="Docker" /></a>
+      <a href="https://www.postman.com/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=postman&theme=dark&animate=true" width="48" height="48" alt="Postman" /></a>
+      <a href="https://www.linux.org/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=linux&theme=dark&animate=true" width="48" height="48" alt="Linux" /></a>
     </td>
   </tr>
 </table>
