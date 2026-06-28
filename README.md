@@ -11,6 +11,8 @@
 
 ---
 
+## 🛠 Tech Stack
+
 <div align="center">
   <a href="https://www.python.org/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=python&theme=dark&animate=true" width="58" height="58" alt="Python" /></a>
   &nbsp;&nbsp;
@@ -22,8 +24,6 @@
 </div>
 
 <br/>
-
-## 🛠 Tech Stack
 
 <table align="center">
   <tr>
