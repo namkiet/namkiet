@@ -18,22 +18,6 @@
   <a href="https://www.facebook.com/na.mkiet42/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
 </p>
 
-## 📌 Focus Areas
-
-<p align="center">
-  <a href="https://en.wikipedia.org/wiki/Machine_learning" target="_blank"><img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square&logo=huggingface&logoColor=white" alt="Machine Learning" /></a>
-  &nbsp;&nbsp;
-  <a href="https://en.wikipedia.org/wiki/Transformer_(deep_learning_architecture)" target="_blank"><img src="https://img.shields.io/badge/Transformers-1A73E8?style=flat-square&logo=tensorflow&logoColor=white" alt="Transformers" /></a>
-  &nbsp;&nbsp;
-  <a href="https://en.wikipedia.org/wiki/Diffusion_model" target="_blank"><img src="https://img.shields.io/badge/Diffusion%20Models-7C3AED?style=flat-square&logo=pytorch&logoColor=white" alt="Diffusion Models" /></a>
-  &nbsp;&nbsp;
-  <a href="https://en.wikipedia.org/wiki/Computer_vision" target="_blank"><img src="https://img.shields.io/badge/Computer%20Vision-059669?style=flat-square&logo=opencv&logoColor=white" alt="Computer Vision" /></a>
-  &nbsp;&nbsp;
-  <a href="https://en.wikipedia.org/wiki/Natural_language_processing" target="_blank"><img src="https://img.shields.io/badge/NLP-0891B2?style=flat-square&logo=huggingface&logoColor=white" alt="NLP" /></a>
-  &nbsp;&nbsp;
-  <a href="https://en.wikipedia.org/wiki/REST" target="_blank"><img src="https://img.shields.io/badge/REST%20APIs-D97706?style=flat-square&logo=fastapi&logoColor=white" alt="REST APIs" /></a>
-</p>
-
 ---
 
 ## 🛠 Tech Stack
@@ -95,6 +79,22 @@
     </td>
   </tr>
 </table>
+
+<br/>
+
+<p align="center">
+  <a href="https://en.wikipedia.org/wiki/Object-oriented_programming" target="_blank"><img src="https://img.shields.io/badge/OOP-059669?style=flat-square" alt="OOP" /></a>
+  &nbsp;&nbsp;
+  <a href="https://en.wikipedia.org/wiki/Data_structure" target="_blank"><img src="https://img.shields.io/badge/DSA-0891B2?style=flat-square" alt="DSA" /></a>
+  &nbsp;&nbsp;
+  <a href="https://en.wikipedia.org/wiki/Machine_learning" target="_blank"><img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square" alt="Machine Learning" /></a>
+  &nbsp;&nbsp;
+  <a href="https://en.wikipedia.org/wiki/Transformer_(deep_learning_architecture)" target="_blank"><img src="https://img.shields.io/badge/Transformers-1A73E8?style=flat-square" alt="Transformers" /></a>
+  &nbsp;&nbsp;
+  <a href="https://en.wikipedia.org/wiki/Diffusion_model" target="_blank"><img src="https://img.shields.io/badge/Diffusion%20Models-7C3AED?style=flat-square" alt="Diffusion Models" /></a>
+  &nbsp;&nbsp;
+  <a href="https://en.wikipedia.org/wiki/REST" target="_blank"><img src="https://img.shields.io/badge/REST%20APIs-D97706?style=flat-square" alt="REST APIs" /></a>
+</p>
 
 ---
 
