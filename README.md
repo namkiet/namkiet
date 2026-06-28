@@ -2,12 +2,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7A7&center=true&vCenter=true&width=500&lines=HCMUS+%7C+Software+%26+AI+Engineer" alt="Typing SVG" />
 </p>
 
-# 👋 Hi, I'm Nam Kiet
+👋 I'm a **second-year CS student** at VNUHCM - University of Science, passionate about **AI/ML and backend engineering**.
 
-🎓 **CS Sophomore** @ VNUHCM - University of Science (GPA: 3.7/4.0)  
-🔬 **Research Assistant** — discrete diffusion models & masking strategies for LLMs  
-🏆 ICPC National Vietnam 2025 · GDGOC Hackathon 2026 Finalist  
-📫 kiettrinh4206@gmail.com
+🔍 I'm looking for **freelance / part-time ML Engineer or Backend opportunities** where I can contribute to real products.
+
+🧠 Strong background in **Mathematics and Computer Science** — National Math Olympiad 2nd Prize 2023, 2024 · ICPC National Vietnam 2025 · GPA 3.7/4.0
+
+💻 Built **AI-powered apps**: **OmniLocal** (GDGOC Hackathon Finalist) and **LocalFood** — combining deep learning, backend APIs, and modern web tech.
 
 <p align="center">
   <a href="mailto:kiettrinh4206@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
