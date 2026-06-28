@@ -22,13 +22,13 @@
 ## 🛠 Tech Stack
 
 <div align="center">
-  <a href="https://www.python.org/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=python&theme=dark&animate=true" width="58" height="58" alt="Python" /></a>
+  <a href="https://www.python.org/" target="_blank"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="58" height="58" /></a>
   &nbsp;&nbsp;
-  <a href="https://git-scm.com/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=git&theme=dark&animate=true" width="58" height="58" alt="Git" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="58" height="58" /></a>
   &nbsp;&nbsp;
-  <a href="https://www.docker.com/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=docker&theme=dark&animate=true" width="58" height="58" alt="Docker" /></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="58" height="58" /></a>
   &nbsp;&nbsp;
-  <a href="https://www.linux.org/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=linux&theme=dark&animate=true" width="58" height="58" alt="Linux" /></a>
+  <a href="https://github.com/" target="_blank"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="58" height="58" /></a>
 </div>
 
 <br/>
