@@ -24,11 +24,9 @@
 <div align="center">
   <a href="https://www.python.org/" target="_blank"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="58" height="58" /></a>
   &nbsp;&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="58" height="58" /></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="58" height="58" /></a>
   &nbsp;&nbsp;
   <a href="https://www.docker.com/" target="_blank"><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="58" height="58" /></a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/" target="_blank"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="58" height="58" /></a>
 </div>
 
 <br/>
