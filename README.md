@@ -2,20 +2,20 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7A7&center=true&vCenter=true&width=500&lines=HCMUS+%7C+Software+%26+AI+Engineer" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <a href="mailto:kiettrinh4206@gmail.com" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=gmail&theme=dark&animate=true" width="48" height="48" alt="Gmail" /></a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/namkiet4206/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin&theme=dark&animate=true" width="48" height="48" alt="LinkedIn" /></a>
-  &nbsp;&nbsp;
-  <a href="https://www.facebook.com/na.mkiet42/" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=facebook&theme=dark&animate=true" width="48" height="48" alt="Facebook" /></a>
-</p>
-
 # 👋 Hi, I'm Nam Kiet
 
 🎓 **CS Sophomore** @ VNUHCM - University of Science (GPA: 3.7/4.0)  
 🔬 **Research Assistant** — discrete diffusion models & masking strategies for LLMs  
 🏆 ICPC National Vietnam 2025 · GDGOC Hackathon 2026 Finalist  
 📫 kiettrinh4206@gmail.com
+
+<p align="center">
+  <a href="mailto:kiettrinh4206@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/namkiet4206/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  &nbsp;&nbsp;
+  <a href="https://www.facebook.com/na.mkiet42/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+</p>
 
 ---
 
